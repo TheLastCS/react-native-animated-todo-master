@@ -2,8 +2,6 @@
 
 ![Thumbnail](./doc/thumb.jpg)
 
-Try the demo on [![Expo Go](./doc/expo-logo.svg)](https://expo.dev/@craftzdog/animated-todo)
-
 The animated checkbox component has been published as [an NPM module `react-native-checkbox-reanimated`](https://github.com/craftzdog/react-native-checkbox-reanimated).
 
 ![demo](./doc/checkbox.gif)
