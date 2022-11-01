@@ -1,0 +1,21 @@
+{
+  "cli": {
+    "version": ">= 2.6.0"
+  },
+  "build": {
+    "local": {
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "local2": {
+      "android": {
+        "gradleCommand": ":app:assembleRelease"
+      }
+    },
+    "local3": {
+      "developmentClient": true
+    },
+    "production": {}
+  }
+}
